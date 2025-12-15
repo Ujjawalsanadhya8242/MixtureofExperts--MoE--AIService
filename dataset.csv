@@ -1,0 +1,333 @@
+query,expert
+"What causes chronic fatigue?",healthcare
+"How to read a nutrition label correctly?",healthcare
+"Are there natural remedies for migraines?",healthcare
+"What is the difference between an antiseptic and a disinfectant?",healthcare
+"How to increase iron levels in blood?",healthcare
+"Symptoms of a vitamin D deficiency",healthcare
+"Is it safe to exercise during pregnancy?",healthcare
+"What are the stages of sleep?",healthcare
+"How to cope with grief and loss?",healthcare
+"What is cognitive behavioral therapy (CBT)?",healthcare
+"How does acupuncture work?",healthcare
+"Risks associated with cosmetic surgery",healthcare
+"What should be in a home first-aid kit?",healthcare
+"How to tell if a food allergy is serious?",healthcare
+"What is an autoimmune disease?",healthcare
+"How to lower blood sugar levels naturally?",healthcare
+"Understanding my blood test results",healthcare
+"What is macular degeneration?",healthcare
+"How to perform the Heimlich maneuver?",healthcare
+"The health benefits of green tea",healthcare
+"What is lactose intolerance?",healthcare
+"How to find a reputable therapist?",healthcare
+"Managing eczema flare-ups",healthcare
+"Is a keto diet sustainable long-term?",healthcare
+"What is a deviated septum?",healthcare
+"How to prevent motion sickness?",healthcare
+"What are the best foods for brain health?",healthcare
+"Can you get addicted to sleeping pills?",healthcare
+"What is herd immunity?",healthcare
+"How to check your own pulse rate?",healthcare
+"What causes kidney stones?",healthcare
+"Is drinking alkaline water beneficial?",healthcare
+"How to support someone with depression?",healthcare
+"What is sciatica and how is it treated?",healthcare
+"How to properly stretch before a workout?",healthcare
+"Signs of a concussion",healthcare
+"What is the Mediterranean diet?",healthcare
+"How does DNA testing for health work?",healthcare
+"What are common symptoms of menopause?",healthcare
+"How to reduce inflammation in the body?",healthcare
+"What is HPV and should I get the vaccine?",healthcare
+"How to deal with social anxiety?",healthcare
+"What are the different types of headaches?",healthcare
+"The importance of gut health",healthcare
+"How to quit smoking successfully?",healthcare
+"What is a panic attack and what does it feel like?",healthcare
+"How to improve posture while working at a desk?",healthcare
+"What is a cataract?",healthcare
+"How to manage asthma symptoms?",healthcare
+"What's the recovery time for a broken arm?",healthcare
+"Are cholesterol-lowering drugs safe?",healthcare
+"How is ADHD diagnosed in adults?",healthcare
+"What are the benefits of yoga for mental health?",healthcare
+"How often should I get my eyes checked?",healthcare
+"What are the long-term effects of sleep deprivation?",healthcare
+"How to treat athlete's foot?",healthcare
+"What is vertigo and what causes it?",healthcare
+"Are dietary supplements regulated?",healthcare
+"What is the difference between a pandemic and an epidemic?",healthcare
+"How to create a family medical history chart?",healthcare
+"What is a living will?",healthcare
+"The link between diet and heart disease",healthcare
+"How to build a better credit score?",finance
+"What are the tax implications of selling stock?",finance
+"Should I choose a fixed or variable rate mortgage?",finance
+"What is a debt-to-income ratio?",finance
+"How does a reverse mortgage work?",finance
+"What is a high-yield savings account?",finance
+"How to save for a child's college education?",finance
+"What is the difference between a bear and a bull market?",finance
+"How to create a diversified investment portfolio?",finance
+"What are municipal bonds?",finance
+"Is it better to lease or buy a car?",finance
+"How do I roll over a 401(k) from a previous employer?",finance
+"What is a brokerage account?",finance
+"The pros and cons of investing in gold",finance
+"What is quantitative easing?",finance
+"How does the federal reserve influence interest rates?",finance
+"What is a credit freeze and should I get one?",finance
+"How to budget for irregular income?",finance
+"What is an emergency fund and how much should I have?",finance
+"Are annuities a good investment for retirement?",finance
+"What is a stock split and how does it affect me?",finance
+"How to analyze a company's annual report?",finance
+"What are the risks of penny stocks?",finance
+"How to teach teenagers about financial responsibility?",finance
+"What is a health savings account (HSA)?",finance
+"How to avoid overdraft fees?",finance
+"What is the consumer price index (CPI)?",finance
+"Should I pay off my mortgage early?",finance
+"What is a robo-advisor?",finance
+"How to protect my assets from a lawsuit?",finance
+"What are capital gains?",finance
+"How do I start day trading?",finance
+"Is my pension plan secure?",finance
+"What is liability insurance?",finance
+"How to get a free copy of my credit report?",finance
+"What is an initial public offering (IPO)?",finance
+"How to choose a financial planner?",finance
+"What is the meaning of fiduciary duty?",finance
+"How to calculate my net worth?",finance
+"What are the financial benefits of getting married?",finance
+"How to spot and avoid investment scams?",finance
+"What is an escrow account?",finance
+"How much should I be spending on housing?",finance
+"Are cryptocurrencies considered a good long-term investment?",finance
+"What is a 529 plan?",finance
+"How to handle stock options from my employer?",finance
+"What happens to debt when you die?",finance
+"What is inflation and how does it affect my savings?",finance
+"How to get out of credit card debt?",finance
+"Should I invest in international stocks?",finance
+"What is a value-added tax (VAT)?",finance
+"What is an audit and what triggers it?",finance
+"How to recover from a data breach?",cybersecurity
+"What is a 'man-in-the-middle' attack?",cybersecurity
+"How can I tell if my computer is part of a botnet?",cybersecurity
+"What is the difference between http and https?",cybersecurity
+"How do I secure my Internet of Things (IoT) devices?",cybersecurity
+"What is spear phishing?",cybersecurity
+"Is it safe to use my fingerprint to log in?",cybersecurity
+"How to create a secure password that I can remember?",cybersecurity
+"What is a zero-day vulnerability?",cybersecurity
+"Should I cover my laptop's webcam?",cybersecurity
+"How does a VPN protect my privacy?",cybersecurity
+"What are the dangers of rooting or jailbreaking a phone?",cybersecurity
+"What is a 'denial of service' attack?",cybersecurity
+"How to spot a fake website?",cybersecurity
+"What is multi-factor authentication?",cybersecurity
+"How do I securely erase data from my phone before selling it?",cybersecurity
+"What is spyware and how do I remove it?",cybersecurity
+"Are public USB charging ports safe to use?",cybersecurity
+"What is a 'Trojan horse' virus?",cybersecurity
+"How to check the privacy settings on my social media accounts?",cybersecurity
+"What is encryption and why is it important?",cybersecurity
+"I received a ransomware email, what should I do?",cybersecurity
+"How to protect my children from online predators?",cybersecurity
+"What is a digital footprint?",cybersecurity
+"Are password managers a good idea?",cybersecurity
+"What is a firewall and do I need one?",cybersecurity
+"How can I tell if an app is malicious?",cybersecurity
+"What are the security risks of cloud storage?",cybersecurity
+"How do ad blockers work?",cybersecurity
+"What is a 'brute force' attack?",cybersecurity
+"How to report an online scam?",cybersecurity
+"Is it possible for my smart home devices to be hacked?",cybersecurity
+"What is 'doxing'?",cybersecurity
+"How often should I change my passwords?",cybersecurity
+"What is a SIM-swap attack?",cybersecurity
+"How to identify and avoid tech support scams?",cybersecurity
+"What is session hijacking?",cybersecurity
+"Does 'incognito mode' make me anonymous online?",cybersecurity
+"What are computer worms?",cybersecurity
+"How can I secure my home Wi-Fi against neighbors?",cybersecurity
+"What is a keylogger?",cybersecurity
+"How do I know if my email has been involved in a data breach?",cybersecurity
+"What is threat modeling?",cybersecurity
+"Is it safe to store passwords in my web browser?",cybersecurity
+"What does a Chief Information Security Officer (CISO) do?",cybersecurity
+"How to deal with cyberbullying?",cybersecurity
+"What are browser cookies?",cybersecurity
+"How to protect myself from identity theft online?",cybersecurity
+"What's the difference between a white hat and a black hat hacker?",cybersecurity
+"Can a factory reset remove all viruses?",cybersecurity
+"What is endpoint security?",cybersecurity
+"How do I disable ad tracking on my smartphone?",cybersecurity
+"What is SQL injection?",cybersecurity
+"Are QR codes a security risk?",cybersecurity
+"How to set up a guest Wi-Fi network?",cybersecurity
+"What is deepfake technology?",cybersecurity
+"How do I check if a file I downloaded is safe?",cybersecurity
+"What are the security protocols for online banking?",cybersecurity
+"What are the symptoms of the flu?",healthcare
+"How can I lower my cholesterol?",healthcare
+"Is it safe to take ibuprofen every day?",healthcare
+"What's the best diet for weight loss?",healthcare
+"I have a persistent cough and fever",healthcare
+"How do I know if I have anxiety?",healthcare
+"What are the side effects of this medication?",healthcare
+"How to treat a minor burn at home?",healthcare
+"When should I see a doctor for a headache?",healthcare
+"Can you explain what type 2 diabetes is?",healthcare
+"My child has a high fever, what should I do?",healthcare
+"What are the early signs of a heart attack?",healthcare
+"How to properly clean a wound?",healthcare
+"Is intermittent fasting healthy?",healthcare
+"What vitamins should I take daily?",healthcare
+"I feel tired all the time, what could be the cause?",healthcare
+"Best exercises for back pain",healthcare
+"How to check for skin cancer?",healthcare
+"What's the difference between a cold and an allergy?",healthcare
+"How much water should I drink per day?",healthcare
+"I think I sprained my ankle",healthcare
+"Can stress cause physical symptoms?",healthcare
+"What is hypertension?",healthcare
+"Are electronic cigarettes safer than regular ones?",healthcare
+"How to manage seasonal allergies?",healthcare
+"My ear is ringing constantly",healthcare
+"What causes acid reflux?",healthcare
+"First aid for a bee sting",healthcare
+"How to improve sleep quality?",healthcare
+"What are common food intolerances?",healthcare
+"I have a strange rash on my arm",healthcare
+"How often should I get a physical check-up?",healthcare
+"Is a plant-based diet good for me?",healthcare
+"What to do for a sore throat?",healthcare
+"Can I drink coffee if I have high blood pressure?",healthcare
+"My vision has become blurry recently",healthcare
+"What are the benefits of meditation?",healthcare
+"How to deal with jet lag?",healthcare
+"Is my child's vaccination schedule up to date?",healthcare
+"Sudden sharp pain in my chest",healthcare
+"How to tell if a mole is cancerous?",healthcare
+"What are probiotics and should I take them?",healthcare
+"Managing symptoms of menopause",healthcare
+"Why are my joints aching?",healthcare
+"How to get rid of hiccups?",healthcare
+"What is a good blood pressure reading?",healthcare
+"Can I exercise with a common cold?",healthcare
+"What is gluten and should I avoid it?",healthcare
+"How do I deal with insomnia?",healthcare
+"Symptoms of dehydration",healthcare
+"Is it okay to crack my knuckles?",healthcare
+"What's the best way to stop a nosebleed?",healthcare
+"Is it better to invest in stocks or bonds?",finance
+"How do I open a retirement savings account?",finance
+"What is a good credit score?",finance
+"Should I buy Bitcoin now?",finance
+"How to create a monthly budget?",finance
+"What is compound interest?",finance
+"Is it a good time to buy a house?",finance
+"How can I improve my credit rating?",finance
+"What are the best high-yield savings accounts?",finance
+"Explain what a 401(k) is",finance
+"How do I file my taxes for the first time?",finance
+"What's the difference between a debit and credit card?",finance
+"Should I invest in Tesla stock?",finance
+"How much of my income should I save?",finance
+"What are ETFs and how do they work?",finance
+"Is getting a personal loan a good idea?",finance
+"How to protect myself from inflation?",finance
+"What is a mortgage?",finance
+"Best way to pay off student loans quickly",finance
+"How to start investing with a small amount of money?",finance
+"Are Roth IRAs better than traditional IRAs?",finance
+"What does a financial advisor do?",finance
+"How to check my stock portfolio performance?",finance
+"What is diversification in investment?",finance
+"Is my money safe in the bank?",finance
+"How do interest rates affect the economy?",finance
+"Tips for negotiating a higher salary",finance
+"What are capital gains taxes?",finance
+"Should I pay off my credit card debt in full?",finance
+"What is a mutual fund?",finance
+"How to teach kids about money?",finance
+"Is real estate a good investment right now?",finance
+"What is the stock market and how does it work?",finance
+"How can I reduce my taxable income?",finance
+"What are the risks of cryptocurrency?",finance
+"Can I withdraw from my retirement account early?",finance
+"What is a FICO score?",finance
+"How to choose a bank?",finance
+"Pros and cons of leasing a car vs buying",finance
+"What's the impact of a government shutdown on my finances?",finance
+"How do I apply for a business loan?",finance
+"What is blockchain technology?",finance
+"How much life insurance do I need?",finance
+"Should I consolidate my debt?",finance
+"What are dividend stocks?",finance
+"How to handle a sudden financial windfall?",finance
+"What is a financial bubble?",finance
+"Can I manage my own investments without a broker?",finance
+"What happens if I miss a credit card payment?",finance
+"How to save for a down payment on a house?",finance
+"What is phishing and how can I avoid it?",cybersecurity
+"My computer is running very slow, is it a virus?",cybersecurity
+"Should I use a VPN at home?",cybersecurity
+"I think my email has been hacked",cybersecurity
+"What is two-factor authentication?",cybersecurity
+"Is it safe to use public Wi-Fi?",cybersecurity
+"How to create a strong password?",cybersecurity
+"What is malware?",cybersecurity
+"My social media account was compromised",cybersecurity
+"How can I tell if an email is a scam?",cybersecurity
+"What's the best antivirus software?",cybersecurity
+"I clicked on a suspicious link, what should I do now?",cybersecurity
+"What is a DDoS attack?",cybersecurity
+"How to secure my home Wi-Fi network?",cybersecurity
+"Is my phone listening to me?",cybersecurity
+"What is ransomware?",cybersecurity
+"How do I protect my personal data online?",cybersecurity
+"What does a firewall do?",cybersecurity
+"I received a strange text message asking for my password",cybersecurity
+"How to safely dispose of an old computer?",cybersecurity
+"Are password managers secure?",cybersecurity
+"What is encryption?",cybersecurity
+"How can I check if my data was part of a breach?",cybersecurity
+"Someone is using my photos online without permission",cybersecurity
+"What is social engineering?",cybersecurity
+"Is it safe to save my credit card information in a browser?",cybersecurity
+"My webcam light turns on by itself",cybersecurity
+"How to prevent identity theft?",cybersecurity
+"What are browser cookies and should I delete them?",cybersecurity
+"How to report a cybersecurity incident?",cybersecurity
+"What is the dark web?",cybersecurity
+"Can someone hack my smart TV?",cybersecurity
+"How do I know if an app is safe to download?",cybersecurity
+"What is a keylogger?",cybersecurity
+"Why do I need to update my software so often?",cybersecurity
+"Is biometric security (fingerprint, face ID) safe?",cybersecurity
+"I am getting a lot of spam calls",cybersecurity
+"How do I permanently delete files from my hard drive?",cybersecurity
+"What is a 'man-in-the-middle' attack?",cybersecurity
+"How to secure my child's online activity?",cybersecurity
+"Can my router be hacked?",cybersecurity
+"What is a zero-day exploit?",cybersecurity
+"I got a pop-up saying my computer is infected and to call a number",cybersecurity
+"How does end-to-end encryption work?",cybersecurity
+"What's the difference between a virus and a worm?",cybersecurity
+"Is it safe to scan QR codes from unknown sources?",cybersecurity
+"How to protect against SIM swapping attacks?",cybersecurity
+"What are the privacy risks of using smart home devices?",cybersecurity
+"Can I get a virus on my iPhone?",cybersecurity
+"How do companies protect my data?",cybersecurity
+
+
+
+
+
+
+
+
